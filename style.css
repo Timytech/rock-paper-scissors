@@ -18,8 +18,8 @@ body{
 
 .container{
     max-width: fit-content;
-    border-top: 10px solid rgb(71, 71, 71);
-    border-bottom: 10px solid rgb(71, 71, 71);
+    border-top: 10px solid brown;
+    border-bottom: 10px solid brown;
     border-radius: 25px;
     padding: 25px;
     margin: 10px auto;
